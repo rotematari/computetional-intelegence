@@ -1,230 +1,77 @@
-ackermann-msgs==2.0.2
-action-msgs==1.2.1
-action-tutorials-interfaces==0.20.5
-action-tutorials-py==0.20.5
-actionlib-msgs==4.2.4
-ament-cmake-test==1.3.11
-ament-copyright==0.12.11
-ament-cppcheck==0.12.11
-ament-cpplint==0.12.11
-ament-flake8==0.12.11
-ament-index-python==1.4.0
-ament-lint==0.12.11
-ament-lint-cmake==0.12.11
-ament-package==0.14.0
-ament-pep257==0.12.11
-ament-uncrustify==0.12.11
-ament-xmllint==0.12.11
-angles==1.15.0
-asttokens @ file:///opt/conda/conda-bld/asttokens_1646925590279/work
-backcall @ file:///home/ktietz/src/ci/backcall_1611930011877/work
-bond==3.0.2
-Bottleneck @ file:///croot/bottleneck_1731058641041/work
-Brotli @ file:///croot/brotli-split_1736182456865/work
-builtin-interfaces==1.2.1
-cartographer-ros-msgs==2.0.9002
-certifi @ file:///croot/certifi_1745939216646/work/certifi
-charset-normalizer @ file:///croot/charset-normalizer_1721748349566/work
-comm @ file:///croot/comm_1709322850197/work
-composition-interfaces==1.2.1
-contourpy @ file:///croot/contourpy_1738160616259/work
-control-msgs==4.7.0
-controller-manager==2.47.0
-controller-manager-msgs==2.47.0
-cv-bridge==3.2.1
-cycler @ file:///tmp/build/80754af9/cycler_1637851556182/work
-debugpy @ file:///croot/debugpy_1736267418885/work
-decorator @ file:///opt/conda/conda-bld/decorator_1643638310831/work
-demo-nodes-py==0.20.5
-diagnostic-msgs==4.2.4
-diagnostic-updater==4.0.0
-domain-coordinator==0.10.0
-dwb-msgs==1.1.17
-example-interfaces==0.9.3
-examples-rclpy-executors==0.15.3
-examples-rclpy-minimal-action-client==0.15.3
-examples-rclpy-minimal-action-server==0.15.3
-examples-rclpy-minimal-client==0.15.3
-examples-rclpy-minimal-publisher==0.15.3
-examples-rclpy-minimal-service==0.15.3
-examples-rclpy-minimal-subscriber==0.15.3
-exceptiongroup @ file:///croot/exceptiongroup_1706031385326/work
-executing @ file:///opt/conda/conda-bld/executing_1646925071911/work
-fonttools @ file:///croot/fonttools_1737039080035/work
-gazebo-msgs==3.7.0
+asttokens
+backcall
+Bottleneck
+Brotli
+certifi
+charset-normalizer
+comm
+contourpy
+cycler
+debugpy
+decorator
+exceptiongroup
+executing
+fonttools
 generate-parameter-library-py==0.4.0
-geographic-msgs==1.0.6
-geometry-msgs==4.2.4
-idna @ file:///croot/idna_1714398848350/work
+idna
 image-geometry==3.2.1
-importlib_metadata @ file:///croot/importlib_metadata-suite_1732633488278/work
-importlib_resources @ file:///croot/importlib_resources-suite_1720641103994/work
-interactive-markers==2.3.2
-ipykernel @ file:///croot/ipykernel_1737660677549/work
-ipython @ file:///croot/ipython_1694181358621/work
-jedi @ file:///croot/jedi_1733987392413/work
-joblib @ file:///croot/joblib_1718217211762/work
-joint-state-publisher==2.4.0
-joint-state-publisher-gui==2.4.0
-jupyter_client @ file:///croot/jupyter_client_1737570961872/work
-jupyter_core @ file:///croot/jupyter_core_1718818295206/work
-kiwisolver @ file:///croot/kiwisolver_1672387140495/work
-laser-geometry==2.4.0
-launch==1.0.7
-launch-ros==0.19.8
-launch-testing==1.0.7
-launch-testing-ros==0.19.8
-launch-xml==1.0.7
-launch-yaml==1.0.7
-lifecycle-msgs==1.2.1
-logging-demo==0.20.5
-map-msgs==2.1.0
-matplotlib==3.9.2
-matplotlib-inline @ file:///opt/conda/conda-bld/matplotlib-inline_1662014470464/work
-message-filters==4.3.5
+importlib_metadata
+importlib_resources
+ipykernel
+ipython
+jedi
+joblib
+jupyter_client
+jupyter_core
+kiwisolver
 mkl-service==2.4.0
-mkl_fft @ file:///io/mkl313/mkl_fft_1730824109137/work
-mkl_random @ file:///io/mkl313/mkl_random_1730823916628/work
-nav-2d-msgs==1.1.17
-nav-msgs==4.2.4
-nav2-common==1.1.17
-nav2-msgs==1.1.17
-nav2-simple-commander==1.0.0
-nest-asyncio @ file:///croot/nest-asyncio_1708532673751/work
+mkl_fft
+mkl_random
+nest-asyncio
 networkx==3.2.1
-numexpr @ file:///croot/numexpr_1730215937391/work
-numpy @ file:///croot/numpy_and_numpy_base_1736283260865/work/dist/numpy-2.0.2-cp39-cp39-linux_x86_64.whl#sha256=51325c84b2934194c104c4637e2ca092340396d2b5d2c31581925c48f31e1ff8
-osrf-pycommon==2.1.4
-packaging @ file:///croot/packaging_1734472117206/work
-pandas @ file:///croot/pandas_1732735089971/work/dist/pandas-2.2.3-cp39-cp39-linux_x86_64.whl#sha256=0a51ed2e81ab863e3d00ed6c5049192ce578ecb38fb467d2f9a6585d3c25f666
-parso @ file:///croot/parso_1733963305961/work
-pcl-msgs==1.0.0
-pendulum-msgs==0.20.5
-pexpect @ file:///tmp/build/80754af9/pexpect_1605563209008/work
-pickleshare @ file:///tmp/build/80754af9/pickleshare_1606932040724/work
-pillow @ file:///croot/pillow_1738010226202/work
-platformdirs @ file:///croot/platformdirs_1692205439124/work
-prompt-toolkit @ file:///croot/prompt-toolkit_1704404351921/work
-psutil @ file:///croot/psutil_1736367091698/work
-ptyprocess @ file:///tmp/build/80754af9/ptyprocess_1609355006118/work/dist/ptyprocess-0.7.0-py2.py3-none-any.whl
-pure-eval @ file:///opt/conda/conda-bld/pure_eval_1646925070566/work
-Pygments @ file:///croot/pygments_1684279966437/work
-pyparsing @ file:///croot/pyparsing_1731445506121/work
+numexpr
+numpy
+packaging
+pandas
+parso
+pexpect
+pickleshare
+Pillow
+platformdirs
+prompt-toolkit
+psutil
+ptyprocess
+pure-eval
+Pygments
+pyparsing
 PyQt6==6.7.1
-PyQt6_sip @ file:///croot/pyqt-split_1740498191142/work/pyqt_sip
-PySocks @ file:///tmp/build/80754af9/pysocks_1605305812635/work
-python-dateutil @ file:///croot/python-dateutil_1716495738603/work
+PyQt6_sip
+PySocks
+python-dateutil
 python-qt-binding==1.1.2
-pytz @ file:///croot/pytz_1713974312559/work
-pyzmq @ file:///croot/pyzmq_1734687138743/work
+pytz
+pyzmq
 qt-dotgraph==2.2.3
 qt-gui==2.2.3
 qt-gui-cpp==2.2.3
 qt-gui-py-common==2.2.3
-quality-of-service-demo-py==0.20.5
-rcl-interfaces==1.2.1
-rclpy==3.3.15
-rcutils==5.1.6
-requests @ file:///croot/requests_1730999120400/work
+requests
 resource-retriever==3.1.2
-rmw-dds-common==1.6.0
-robot-localization==3.5.3
-ros2action==0.18.11
-ros2bag==0.15.13
-ros2cli==0.18.11
-ros2component==0.18.11
-ros2controlcli==2.47.0
-ros2doctor==0.18.11
-ros2interface==0.18.11
-ros2launch==0.19.8
-ros2lifecycle==0.18.11
-ros2multicast==0.18.11
-ros2node==0.18.11
-ros2param==0.18.11
-ros2pkg==0.18.11
-ros2run==0.18.11
-ros2service==0.18.11
-ros2topic==0.18.11
-rosbag2-interfaces==0.15.13
-rosbag2-py==0.15.13
-rosgraph-msgs==1.2.1
-rosidl-adapter==3.1.6
-rosidl-cli==3.1.6
-rosidl-cmake==3.1.6
-rosidl-generator-c==3.1.6
-rosidl-generator-cpp==3.1.6
-rosidl-generator-dds-idl==0.8.1
-rosidl-generator-py==0.14.4
-rosidl-parser==3.1.6
-rosidl-runtime-py==0.9.3
-rosidl-typesupport-c==2.0.2
-rosidl-typesupport-cpp==2.0.2
-rosidl-typesupport-fastrtps-c==2.2.2
-rosidl-typesupport-fastrtps-cpp==2.2.2
-rosidl-typesupport-introspection-c==3.1.6
-rosidl-typesupport-introspection-cpp==3.1.6
-rpyutils==0.2.1
-rqt-action==2.0.1
-rqt-bag==1.1.5
-rqt-bag-plugins==1.1.5
-rqt-console==2.0.3
-rqt-graph==1.3.1
-rqt-gui==1.1.7
-rqt-gui-py==1.1.7
-rqt-msg==1.2.0
-rqt-plot==1.1.2
-rqt-publisher==1.5.0
-rqt-py-common==1.1.7
-rqt-py-console==1.0.2
-rqt-reconfigure==1.1.2
-rqt-service-caller==1.0.5
-rqt-shell==1.0.2
-rqt-srv==1.0.3
-rqt-topic==1.5.0
-scikit-fuzzy==0.5.0
-scikit-learn @ file:///croot/scikit-learn_1737988764076/work
-scipy @ file:///croot/scipy_1733756309941/work/dist/scipy-1.13.1-cp39-cp39-linux_x86_64.whl#sha256=a4372e07d982a377bda57ec71fd74ac403442571e1d717de47325a14dea5c278
 scripts==3.7.0
-sensor-msgs==4.2.4
-sensor-msgs-py==4.2.4
-shape-msgs==4.2.4
-sip @ file:///croot/sip_1738856193618/work
-six @ file:///tmp/build/80754af9/six_1644875935023/work
-slam-toolbox==2.6.9
+sip
+six
 smclib==3.0.2
-sros2==0.10.5
-stack-data @ file:///opt/conda/conda-bld/stack_data_1646927590127/work
-statistics-msgs==1.2.1
-std-msgs==4.2.4
-std-srvs==4.2.4
-stereo-msgs==4.2.4
-teleop-twist-keyboard==2.4.0
-tf-transformations==1.1.0
-tf2-geometry-msgs==0.25.11
-tf2-kdl==0.25.11
-tf2-msgs==0.25.11
-tf2-py==0.25.11
-tf2-ros-py==0.25.11
-tf2-tools==0.25.11
+stack-data
 threadpoolctl==3.6.0
-tomli @ file:///opt/conda/conda-bld/tomli_1657175507142/work
-topic-monitor==0.20.5
-torch==1.13.1
-torchaudio==0.13.1
-torchvision==0.14.1
-tornado @ file:///croot/tornado_1733960490606/work
-traitlets @ file:///croot/traitlets_1718227057033/work
-trajectory-msgs==4.2.4
-turtlebot3-example==2.1.5
-turtlebot3-msgs==2.2.3
-turtlebot3-teleop==2.1.5
-turtlesim==1.4.2
-typing_extensions @ file:///croot/typing_extensions_1734714854207/work
-tzdata @ file:///croot/python-tzdata_1690578112552/work
-unicodedata2 @ file:///croot/unicodedata2_1736541023050/work
-unique-identifier-msgs==2.2.1
-urllib3 @ file:///croot/urllib3_1737133630106/work
-visualization-msgs==4.2.4
-wcwidth @ file:///Users/ktietz/demo/mc3/conda-bld/wcwidth_1629357192024/work
-xacro==2.0.8
-zipp @ file:///croot/zipp_1732630741423/work
+tomli
+typing_extensions
+tzdata
+unicodedata2
+urllib3
+wcwidth
+zipp
+scikit-fuzzy
+scipy
+matplotlib
+scikit-image
+scikit-learn
